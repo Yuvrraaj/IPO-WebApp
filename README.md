@@ -1,4 +1,4 @@
-# BlueStock-h32
+# IPO-WEBAPP
 Follow these command to run this project:
 
 
